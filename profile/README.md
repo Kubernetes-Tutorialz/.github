@@ -9,7 +9,7 @@ Your patches are welcome. Here's our suggested workflow:
 - Send us a pull request with a description of your work. Bonus points for topic branches!
 
 ## Copyright and attribution
-Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+Copyright (c) 2016 DataMade. Released under the [GNU General Public License v3.0](https://github.com/Kubernetes-Tutorialz/devops-glossary/blob/main/LICENSE).
 
 <!--
 
